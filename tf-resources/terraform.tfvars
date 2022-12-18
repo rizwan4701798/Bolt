@@ -1,4 +1,4 @@
-bucket_name       = "s3bucket"
+bucket_name       = "rizwanfarooqbolktasks3bucket"
 acl_value         = "private"
 region            = "us-east-1"
 aws_access_key    = "AKIAZ6Q6AQQN2RUQDR4K"
